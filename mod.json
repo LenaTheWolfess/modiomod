@@ -2,7 +2,7 @@
   "name": "modiomod",
   "version": "1.0.0",
   "label": "GUI",
-  "description": "Display owned mods as green and mods with available update as yellow in mod downloander",
+  "description": "Display owned mods as green and mods with available update as yellow in mod downloader",
   "ignoreInCompatibilityChecks": true,
   "dependencies": ["0ad=0.0.26"]
 }
