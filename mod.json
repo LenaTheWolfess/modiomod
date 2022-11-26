@@ -1,8 +1,8 @@
 {
   "name": "modiomod",
-  "version": "1.0.0",
-  "label": "GUI",
-  "description": "Display owned mods as green and mods with available update as yellow in mod downloader",
+  "version": "1.1.1",
+  "label": "ModIO downloader",
+  "description": "Display owned mods as green and mods with available update as yellow in mod downloader. Warns about potentialy missing dependencies.",
   "ignoreInCompatibilityChecks": true,
   "dependencies": ["0ad=0.0.26"]
 }

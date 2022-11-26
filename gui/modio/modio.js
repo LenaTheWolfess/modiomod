@@ -57,6 +57,8 @@ var g_ModIOState = {
 		// Successfully acquired a mod file
 		hideDialog();
 		Engine.GetGUIObjectByName("downloadButton").enabled = true;
+		g_Mods = Engine.GetAvailableMods();
+		displayMods();
 		return true;
 	},
 	/**
